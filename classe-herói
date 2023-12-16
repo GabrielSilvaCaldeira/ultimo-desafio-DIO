@@ -1,0 +1,23 @@
+ let heroi = "mago"
+    switch (heroi){
+        case "guerreiro":
+            console.log(" Zion" + " 42y" + " Guerreiro")
+            console.log(" Utilizou Golpe de Espada!")
+            break
+        
+        case "mago":
+            console.log(" Mogle" + " 76y" + " Mago")
+            console.log(" Utilizou Magia!")
+            break
+
+        case "monge":
+            console.log(" Bagu" + " 94y" + " Monge")
+            console.log(" Utilizou Artes Marciais!")
+            break
+
+        case "ninja":
+            console.log(" Vector" + " 35y" + " Ninja")
+            console.log(" Utilizou shuriken!")
+            break
+
+    }
